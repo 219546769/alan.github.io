@@ -1,0 +1,43 @@
+.rowfooter{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content: space-around;
+   
+}
+.headshot{
+    width:50%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+   
+}
+.aboutme{
+    border:1px solid black;   
+}
+.rowmid {
+    display:flex;
+    justify-content:center;
+}
+
+#picture {
+    width:665px;
+    height:500px;
+}
+#head {
+    width: 400px;
+    height:400px;
+}
+
+.contact {
+    color:red;
+    background-color: black;
+    }
